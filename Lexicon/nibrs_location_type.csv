@@ -1,0 +1,48 @@
+location_id,location_code,location_name,location_region_type
+1,1,Air/Bus/Train Terminal,Travel
+2,2,Bank/Savings and Loan,Government
+3,3,Bar/Nightclub,Entertainment
+4,4,Church Synagogue/Temple,Religion
+5,5,Commercial/Office Building,Other
+6,6,Construction Site,Other
+7,7,Convenience Store,Store
+8,8,Department/Discount Store,Store
+10,10,Field/Woods,Nature
+11,11,Governmenternment/Public Building,Government
+12,12,Grocery/Supermarket,Store
+13,13,Highway/Road/Ally,Infrastructure
+14,14,Hotel/Motel/Etc.,Rest
+15,15,Jail/Prison,Government
+16,16,Lake/Waterway,Nature
+17,17,Liquor Store,Store
+18,18,Parking Lot/Garage,Property
+19,19,Rental Stor. Facil.,Property
+20,20,Residence/Home,Property
+21,21,Restaurant,Entertainment
+22,22,Educational Grounds/College,Educational Grounds
+23,23,Service/Gas Station,Store
+24,24,Specialty Store,Store
+25,25,Other/Unknown,Other
+26,37,Abandoned/Condemned Structure,Other
+27,38,Amusement Park,Entertainment
+28,39,Arena/Stadium/Fairgrounds/Coliseum,Entertainment
+29,40,ATM Separate from Bank,Government
+30,41,Auto Dealership New/Used,Store
+31,42,Camp/Campground,Nature
+32,44,Daycare Facility,Other
+33,45,Dock/Wharf/Freight/Modal Terminal,Government
+34,46,Farm Facility,Property
+35,47,Gambling Facility/Casino/Race Track,Entertainment
+36,48,Industrial Site,Government
+37,49,Military Installation,Government
+38,50,Park/Playground,Nature
+39,51,Rest Area,Rest
+40,52,Educational Grounds-College/University,Educational Grounds
+41,53,Educational Grounds-Elementary/Secondary,Educational Grounds
+42,54,Shelter-Mission/Homeless,Rest
+43,55,Shopping Mall,Store
+44,56,Tribal Lands,Property
+45,57,Community Center,Entertainment
+46,9,Drug Store/Dr. s Office/Hospital,Government
+0,0,Not Specified,Other
+47,58,Cyberspace,Other
